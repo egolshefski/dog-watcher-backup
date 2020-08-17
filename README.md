@@ -1,2 +1,2 @@
-# dogwatcher-backup
-backup repo for dogwatcher
+# dog-watcher-backup
+backup repo for dog-watcher
